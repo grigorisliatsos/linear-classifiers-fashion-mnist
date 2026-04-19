@@ -1,0 +1,7 @@
+model,scenario,best_lr,best_epochs,test_accuracy
+Perceptron OVA,Balanced,0.1,5,0.7825
+Perceptron OVO,Balanced,0.001,5,0.7997
+Softmax,Balanced,0.003,300,0.7636
+Perceptron OVA,Imbalanced,0.1,10,0.6732
+Perceptron OVO,Imbalanced,0.001,10,0.7131
+Softmax,Imbalanced,0.003,300,0.7517

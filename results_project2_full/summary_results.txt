@@ -1,0 +1,8 @@
+FINAL SUMMARY
+======================================================================
+Perceptron OVA  | Balanced   | lr=0.1    | epochs=5   | Test Accuracy = 0.7825
+Perceptron OVO  | Balanced   | lr=0.001  | epochs=5   | Test Accuracy = 0.7997
+Softmax         | Balanced   | lr=0.003  | epochs=300 | Test Accuracy = 0.7636
+Perceptron OVA  | Imbalanced | lr=0.1    | epochs=10  | Test Accuracy = 0.6732
+Perceptron OVO  | Imbalanced | lr=0.001  | epochs=10  | Test Accuracy = 0.7131
+Softmax         | Imbalanced | lr=0.003  | epochs=300 | Test Accuracy = 0.7517
